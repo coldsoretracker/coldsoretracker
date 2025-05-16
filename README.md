@@ -1,6 +1,7 @@
 ## Hi there ##
 
 https://coldsoretracker.github.io/privacypolicy
+
 https://coldsoretracker.github.io/support
 
 <!--
