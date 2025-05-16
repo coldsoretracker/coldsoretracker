@@ -1,4 +1,3 @@
-## Hi there ##
 
 https://coldsoretracker.github.io/privacypolicy
 
